@@ -76,7 +76,7 @@ The dashboard comprises six pages-->
 
 ### Marketing Page: Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more.
 
-![marketing page]()
+![marketing page](https://github.com/Arbu7841/AtliQ-Bussiness-Insights-360/blob/main/Marketing%20Page.png)
 
 
 ### Supply Chain Page: Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more.
