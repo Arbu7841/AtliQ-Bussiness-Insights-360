@@ -9,7 +9,7 @@ To surpass competitors and enable data-driven decision-making, the company has d
 
 I worked on this project by following the Codebasics PowerBi Course, 
 
-Here is my live dashboard link - https://app.powerbi.com/view?r=eyJrIjoiMjVjOGMzYWQtOTdlYi00NWVhLWFmZDktOGJhNGRjN2IxYjExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73
+Here is my live dashboard link - https://app.powerbi.com/view?r=eyJrIjoiOWFhNzcyYTItZWNjNy00M2E5LTk3OWYtODJkMzRkYjNlZjVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73
 
 
 Here is my post link - https://www.linkedin.com/posts/arbaj-ansari_connections-dataanalytics-businessinsights360-activity-7232746538366582784-myLZ?utm_source=share&utm_medium=member_desktop
